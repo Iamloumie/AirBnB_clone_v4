@@ -4,8 +4,8 @@ html, body {
 body {
     margin: 0px;
     padding: 0px; 
-    color: #484848;
-    font-size: 14px;
+    color: #181818;
+    font-size: 16px;
     font-family: Circular, "Helvetica Neue",Helvetica,Arial,sans-serif;
     display: flex;
     flex-direction: column;
@@ -16,3 +16,4 @@ body {
     width: 100%;
     flex: 1 0 auto;
 }
+

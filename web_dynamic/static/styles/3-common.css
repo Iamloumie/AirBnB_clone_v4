@@ -11,8 +11,7 @@ body {
     flex-direction: column;
 }
 .container {
-    max-width: 1000px;
-    margin: 30px auto;
     width: 100%;
+    max-width: 1000px;
     flex: 1 0 auto;
 }
